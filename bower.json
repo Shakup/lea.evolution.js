@@ -1,0 +1,35 @@
+{
+  "name": "lea.evolution.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Shakup/lea.evolution.js",
+  "authors": [
+    "Sébastien Decamme <sebastien.decamme@gmail.com>"
+  ],
+  "description": "A JavaScript framework to create beautiful applications based on lea.js",
+  "main": "dist/lea.evolution.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "javascript",
+    "framework",
+    "library",
+    "lighweight",
+    "modern",
+    "lea",
+    "application"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "doc",
+    "logo",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "lea.evolution.js",
+  "version": "1.0.0",
+  "description": "A JavaScript framework to create beautiful applications based on lea.js",
+  "main": "dist/lea.evolution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shakup/lea.evolution.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "framework",
+    "library",
+    "lighweight",
+    "modern",
+    "lea",
+    "application"
+  ],
+  "author": "Sébastien Decamme <sebastien.decamme@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shakup/lea.evolution.js/issues"
+  },
+  "homepage": "https://github.com/Shakup/lea.evolution.js",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-banner": "^0.4.0",
+    "grunt-contrib-uglify": "~0.8.0",
+    "grunt-contrib-watch": "latest",
+    "grunt-notify": "^0.4.1",
+    "grunt-text-replace": "^0.4.0"
+  }
+}
